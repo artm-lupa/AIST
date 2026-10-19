@@ -1,0 +1,28 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Собранные файлы
+build/
+dest/
+*.spec
+
+# PyCharm
+.jdea/
+
+#Кэш Python
+__pycache__/
+*.pyc
+
+# Тестовые вайлы
+*.xlsx
+*.xls
+test_*.py
+debug_*.py
+
+# ОС
+.DS_Store
+thumbs.db
+
+# Лаги
+*.log
