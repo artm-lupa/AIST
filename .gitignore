@@ -8,7 +8,7 @@ dest/
 *.spec
 
 # PyCharm
-.jdea/
+.idea/
 
 #Кэш Python
 __pycache__/
@@ -26,3 +26,5 @@ thumbs.db
 
 # Лаги
 *.log
+
+
